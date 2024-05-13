@@ -1,0 +1,8 @@
+total 16
+drwx--xr-x 2 parden 2024_paris 6 May 13 13:31 test0
+-rwx--xr-- 1 parden 2024_paris 4 May 13 13:53 test1
+dr-x---r-- 2 parden 2024_paris 6 May 13 13:31 test2
+-r-----r-- 2 parden 2024_paris 1 May 13 13:55 test3
+-rw-r----x 1 parden 2024_paris 2 May 13 14:03 test4
+-r-----r-- 2 parden 2024_paris 1 May 13 14:04 test5
+lrwxrwxrwx 1 parden 2024_paris 5 May 13 13:33 test6 -> test0
